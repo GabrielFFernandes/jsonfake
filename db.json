@@ -19,5 +19,5 @@
   {"id":1, "setor": 1, "descricao": "Alimentos"},
   {"id":2, "setor": 2, "descricao": "Brinquedos"},
   {"id":3, "setor": 3, "descricao": "Miscelânia"}
-],
+]
 }
